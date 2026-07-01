@@ -45,17 +45,6 @@ Passionate about software quality and understanding how systems work from both t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kieutrangg06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutrangg06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-> *Note: Stats may take time to appear as my profile is growing.*
-
----
-
 ## 🧠 Mindset
 
 > “Think like a user, test like a detective.”
@@ -68,7 +57,6 @@ Every bug has a story. I enjoy digging deep to understand the root cause and imp
 
 - 📧 **Email**: kieutrangg06123@gmail.com
 - 💻 **GitHub**: [kieutrangg06](https://github.com/kieutrangg06)
-- 💼 **LinkedIn**: (Add your LinkedIn here)
 
 ---
 
