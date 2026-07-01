@@ -52,6 +52,8 @@ Passionate about software quality and understanding how systems work from both t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutrangg06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+> *Note: Stats may take time to appear as my profile is growing.*
+
 ---
 
 ## 🧠 Mindset
