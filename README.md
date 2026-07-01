@@ -1,16 +1,32 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 
-<!--
-**kieutrangg06/kieutrangg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Trang
 
-Here are some ideas to get you started:
+💻 IT Student | Backend & Web Development Enthusiast  
+🌱 Java • Spring Boot • MySQL • HTML/CSS/JS  
+🎯 Building projects to improve real-world coding skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github" />
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kieutrangg06&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=kieutrangg06&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- Email: kieutrangg06123@gmail.com  
+- GitHub: https://github.com/kieutrangg06  
+
+---
+
+✨ Thanks for visiting my profile!
